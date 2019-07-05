@@ -1,4 +1,4 @@
-# Api Components issues
+# API Components issues
 
 A repository to file common issues to all API Components.
 
@@ -6,10 +6,10 @@ If you find a bug in an application that has been build with API Components but 
 
 It is also OK to file an issue in application's project page. The issues from here and corresponding applications will be distributed accordingly.
 
-## Quick links 
+## Quick links
 
-- [Advanbced REST Client](https://github.com/advanced-rest-client/arc-electron/issues) issue tracker
-- [API Console](https://github.com/mulesoft/api-console/issues) issue tracker
+-   [Advanbced REST Client](https://github.com/advanced-rest-client/arc-electron/issues) issue tracker
+-   [API Console](https://github.com/mulesoft/api-console/issues) issue tracker
 
 ## Contributing
 
