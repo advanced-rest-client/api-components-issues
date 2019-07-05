@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for ARC
+about: Suggest an idea for the application
 
 ---
 
