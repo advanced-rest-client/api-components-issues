@@ -4,7 +4,7 @@ about: Create a report to help us improve ARC
 
 ---
 
-*   Application version (of applicable):
+*   Application version (if applicable):
 *   Operating System (Platform and Version):
 *   Browser version (if applicable):
 
